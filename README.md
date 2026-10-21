@@ -58,6 +58,7 @@ A modern, fully functional task management dashboard built with **React.js**, **
 
 ## 🛠️ Tech Stack
 
+
 | Technology       | Purpose                              |
 |------------------|--------------------------------------|
 | React.js 19      | UI library (functional components)   |
