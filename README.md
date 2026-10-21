@@ -133,28 +133,6 @@ src/
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard — Light Mode
-> _Add your screenshot here_
-
-### Dashboard — Dark Mode
-> _Add your screenshot here_
-
-### Task Management — List View
-> _Add your screenshot here_
-
-### Kanban Board
-> _Add your screenshot here_
-
-### Settings
-> _Add your screenshot here_
-
-### Mobile Responsive View
-> _Add your screenshot here_
-
----
-
 ## 🧠 What I Learned
 
 ### React Fundamentals
